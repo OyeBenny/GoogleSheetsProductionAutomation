@@ -3,12 +3,9 @@
   <img src="https://i.imgur.com/uY4HHHF.png">
 </p>
 
-<p align="center">
 LABUS Summer 2018
 [![GitHub issues](https://img.shields.io/github/issues/OyeBenny/GoogleSheetsProductionAutomation.svg)](https://github.com/OyeBenny/GoogleSheetsProductionAutomation/issues)
 [![Generic badge](https://img.shields.io/badge/Version%20-Beta%200.2-blue.svg)](https://shields.io/)
-
-</p>
 
 <h2>Robust Google Sheets/Docs merge, share, and email attachment tool</h2>
 <h3>Features</h3>
@@ -19,4 +16,4 @@ LABUS Summer 2018
     <li>Enables sending of PDFs as email attachments.</li>
     <li>Allows for setting of conditions to only merge Doc if a value matches a criteria.</li>
     <li>Share merged Docs with production team as view-only or as editor.</li>
-    <li>BARK!</li></ul>
+    <li>And more?</li></ul>
