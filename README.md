@@ -2,7 +2,14 @@
 <p align="center">
   <img src="https://i.imgur.com/uY4HHHF.png">
 </p>
+
+<p align="center">
 LABUS Summer 2018
+[![GitHub issues](https://img.shields.io/github/issues/OyeBenny/GoogleSheetsProductionAutomation.svg)](https://github.com/OyeBenny/GoogleSheetsProductionAutomation/issues)
+[![Generic badge](https://img.shields.io/badge/Version%20-Beta%200.2-blue.svg)](https://shields.io/)
+
+</p>
+
 <h2>Robust Google Sheets/Docs merge, share, and email attachment tool</h2>
 <h3>Features</h3>
     <ul><li>Merge any spreadsheet or Google Form data into personalized, templated Google Docs or PDFs.</li>
