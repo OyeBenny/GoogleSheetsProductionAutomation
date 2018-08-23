@@ -1,4 +1,7 @@
 # GoogleSheetsProductionAutomation
+<p align="center">
+  <img href="https://i.imgur.com/uY4HHHF.png">
+</p>
 LABUS Summer 2018
 <h2>Robust Google Sheets/Docs merge, share, and email attachment tool</h2>
 <h3>Features</h3>
