@@ -3,9 +3,7 @@
   <img src="https://i.imgur.com/uY4HHHF.png">
 </p>
 
-LABUS Summer 2018
-[![GitHub issues](https://img.shields.io/github/issues/OyeBenny/GoogleSheetsProductionAutomation.svg)](https://github.com/OyeBenny/GoogleSheetsProductionAutomation/issues)
-[![Generic badge](https://img.shields.io/badge/Version%20-Beta%200.2-blue.svg)](https://shields.io/)
+LABUS Summer 2018 - [![GitHub issues](https://img.shields.io/github/issues/OyeBenny/GoogleSheetsProductionAutomation.svg)](https://github.com/OyeBenny/GoogleSheetsProductionAutomation/issues) - [![Generic badge](https://img.shields.io/badge/Version%20-Beta%200.2-blue.svg)](https://shields.io/)
 
 <h2>Robust Google Sheets/Docs merge, share, and email attachment tool</h2>
 <h3>Features</h3>
